@@ -1,5 +1,5 @@
 # My logos
-In this repository you can find all of my logos.
+Here you can find all of my logos.
 # About
 <b>Colors:</b>
 <br>
