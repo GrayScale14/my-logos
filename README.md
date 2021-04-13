@@ -1,6 +1,6 @@
 # My logos
 In this repository you can find all my logos.
 # About
-<b>Colors:</b>
+<b>Colors used in the logos:</b>
 <br>
 #181818, #787878, #A8A8A8.
